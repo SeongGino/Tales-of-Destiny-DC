@@ -227,7 +227,7 @@ You there, boy!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, Yes?
+Oh, yes?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
